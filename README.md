@@ -1,6 +1,6 @@
 ![GUNCAT](https://github.com/guncat-02/guncat-02/assets/169626974/963b6184-a1ee-441c-b1c0-18e3f25e6d7b)
 <!--
-**guncat-02/guncat-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![guncat](https://github.com/guncat-02/guncat-02/assets/169626974/67f6f5de-b2e0-46e5-9d05-08798f34ec6e)
 
 Here are some ideas to get you started:
 
