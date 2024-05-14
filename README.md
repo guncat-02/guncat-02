@@ -1,7 +1,11 @@
 <p align=center>
   <img src=https://github.com/guncat-02/guncat-02/assets/169626974/d9ef4578-9140-4e0e-bdbc-baf45baf43ae width=50%>
 </p>
-
+<div align=center>
+  <img src=https://github-readme-stats.vercel.app/api?username=guncat-02&show_icons=true&theme=neon&count_private=true&locale=kr&include_all_commit=true>
+</div>
+<p>
+</p>
 <div align=center width=50%>
   <h1>
     STACK
@@ -15,10 +19,6 @@
 </div>
 <p>
 </p>
-<div align=center>
-  <img src=https://github-readme-stats.vercel.app/api?username=guncat-02&show_icons=true&theme=neon&count_private=true&locale=kr&include_all_commit=true>
-</div>
-
 <div align=center>
   <h1>
     ABOUT ME
