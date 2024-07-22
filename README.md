@@ -25,7 +25,10 @@
 <div>
 <img src="https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=e&logoColor=white&link=mailto:nuit0204@naver.com">
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white&linko=https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d">
+
 </div>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guncat-02&include_all_commits=true&theme=neon&show_icons=true)
+
+[![NaverMail Badge](https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:nuit0204@naver.com)](mailto:nuit0204@naver.com)
