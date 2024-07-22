@@ -21,7 +21,7 @@
 </div>
 <br>
 
-# 📱 CONTACT
+# 📞 CONTACT
 
 email | nuit0204@naver.com
   --- | --- |
