@@ -1,11 +1,11 @@
-<p align=center>
-  <img src=https://github.com/guncat-02/guncat-02/assets/169626974/6c1d2eef-f949-4a26-9522-700d886cf532>
-</p>
+
 <div align=center>
-  <img src=https://github-readme-stats.vercel.app/api?username=guncat-02&show_icons=true&theme=neon&count_private=true&locale=kr&include_all_commit=true>
-</div>
-<p>
-</p>
+
+  notion | https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d 
+  --- | --- |
+
+  <img src=https://github.com/guncat-02/guncat-02/assets/169626974/6c1d2eef-f949-4a26-9522-700d886cf532 width=50%></div>
+
 <div align=center width=50%>
   <h1>
     STACK
@@ -29,5 +29,6 @@
   <h1>
     ABOUT ME
   </h1>
+  
 </div>
-
+<br>
