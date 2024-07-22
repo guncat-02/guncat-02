@@ -22,6 +22,7 @@
 <p>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guncat-02&include_all_commits=true&theme=neon&show_icons=true)
 
 # ABOUT ME
 
