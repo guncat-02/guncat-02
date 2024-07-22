@@ -24,7 +24,7 @@
 # 📞 CONTACT
 <div>
 <img src="https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=e&logoColor=white&link=mailto:nuit0204@naver.com">
-<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d">
+<a href="https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 </div>
 
