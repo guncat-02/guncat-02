@@ -31,4 +31,4 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guncat-02&include_all_commits=true&theme=neon&show_icons=true)
 
-[![NaverMail Badge](https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:nuit0204@naver.com)](mailto:nuit0204@naver.com)
+[(https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:nuit0204@naver.com)](mailto:nuit0204@naver.com)
