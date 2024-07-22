@@ -1,12 +1,8 @@
 
 <div align=center>
-
-  notion | https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d 
-  --- | --- |
-
-  <img src=https://github.com/guncat-02/guncat-02/assets/169626974/6c1d2eef-f949-4a26-9522-700d886cf532 width=50%></div>
-
-<div align=center width=50%>
+  <img src=https://github.com/guncat-02/guncat-02/assets/169626974/6c1d2eef-f949-4a26-9522-700d886cf532>
+</div>
+<div>
   <h1>
     STACK
   </h1>
@@ -25,10 +21,10 @@
 </div>
 <p>
 </p>
-<div align=center>
-  <h1>
-    ABOUT ME
-  </h1>
-  
-</div>
-<br>
+
+
+# ABOUT ME
+
+email | nuit0204@naver.com
+  --- | --- |
+notion | https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d 
