@@ -1,11 +1,15 @@
 
 <div align=center>
-  <img src=https://github.com/guncat-02/guncat-02/assets/169626974/6c1d2eef-f949-4a26-9522-700d886cf532>
+  <img src=https://github.com/guncat-02/guncat-02/assets/169626974/6c1d2eef-f949-4a26-9522-700d886cf532 width=50%>
 </div>
 <br>
 
+<div align="center">
+  
 # ⚒ STACK
-<div>
+
+</div>
+<div align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -21,11 +25,14 @@
 </div>
 <br>
 
+<div align="center">
+  
 # 📞 CONTACT
-<div>
+
+</div>
+<div align="center">
 <a href="mailto:nuit0204@naver.com"><img src="https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=e&logoColor=white&link=mailto:nuit0204@naver.com"></a>
 <a href="https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-
 </div>
 
 #
