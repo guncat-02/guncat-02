@@ -12,6 +12,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+<br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
 <br>
@@ -36,5 +38,8 @@
 </div>
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guncat-02&include_all_commits=true&theme=neon&show_icons=true)
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guncat-02&show_icons=true&theme=neon&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guncat-02&layout=compact)
+
