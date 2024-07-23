@@ -3,7 +3,6 @@
   <img src=https://github.com/guncat-02/guncat-02/assets/169626974/6c1d2eef-f949-4a26-9522-700d886cf532 width=50%>
 </div>
 <br>
-
 <div align="center">
   
 # ⚒ STACK
@@ -36,10 +35,16 @@
 <a href="mailto:nuit0204@naver.com"><img src="https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=e&logoColor=white&link=mailto:nuit0204@naver.com"></a>
 <a href="https://www.notion.so/GUNCAT-a80f07c72ceb4559b237cafe103cf08d"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </div>
-
-#
 <div align="center">
   
+# GIT STATUS
+
+</div>
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guncat-02&show_icons=true&theme=neon&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guncat-02&layout=compact)
+![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guncat-02&theme=2077)
+
+</div>
+<br>
 
