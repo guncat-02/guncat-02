@@ -58,7 +58,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/bluewhale36/momentum-sns"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=guncat-02&repo=momentum&theme=dark"/></a>
-  <a href="https://github.com/bluewhale36/pet-info-system"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=guncat-02&repo=pet&theme=dark"/></a>
-  <a href="https://github.com/bluewhale36/nurse-chart-program"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=guncat-02&repo=hospital&theme=dark"/></a>
+  <a href="https://github.com/guncat-02/momentum"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=guncat-02&repo=momentum&theme=dark"/></a>
+  <a href="https://github.com/guncat-02/pet"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=guncat-02&repo=pet&theme=dark"/></a>
+  <a href="https://github.com/guncat-02/hospital"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=guncat-02&repo=hospital&theme=dark"/></a>
 </p>
