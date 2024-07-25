@@ -53,7 +53,7 @@
 <br>
 <div align="center">
   
-### ♥️ MY PROJECT ♥️
+### ⭐ MY PROJECT ⭐
 
 </div>
 
